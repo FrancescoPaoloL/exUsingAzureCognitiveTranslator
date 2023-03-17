@@ -1,4 +1,4 @@
-# Simple Microsoft Cognitive Services Speech SDK using
+# Simple Azure Cognitive Services Translator Text API using
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
